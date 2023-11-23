@@ -5,8 +5,8 @@ function Logo() {
     <svg
       className="max-h-[600px]"
       xmlns="http://www.w3.org/2000/svg"
-      // width="979.728"
-      // height="715.141"
+      width="50vw"
+      height="715.141"
       version="1.1"
       viewBox="0 0 979.728 715.141"
       xmlSpace="preserve"
